@@ -48,7 +48,7 @@ def on_progress(stream, chunk, bytes_remaining):
 
 # Criação da janela principal
 Janela = Ctk.CTk()
-Janela.title("Baixar Música")
+Janela.title("Baixar Video")
 Janela.geometry("400x300")
 
 # Label e entrada para inserir o link do vídeo
