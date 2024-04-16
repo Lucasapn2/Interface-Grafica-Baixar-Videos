@@ -29,7 +29,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corr
 
 Autor 
 
-Lucas Barbosa Ferreira
+Dev Lucas Olimpia Code
 
 Licença
 Este projeto é licenciado sob a Licença MIT.
